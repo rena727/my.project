@@ -1,0 +1,50 @@
+*{
+	font-family: "Poppins", sans-serif;
+}
+.task5{
+	margin:10px;
+	padding: 	10px;
+}
+
+.bir{
+	border-style: solid;
+	width:100px;
+    margin:20px;
+    border-color:rgba(203, 151, 22, 0.8);
+    text-align: center	;
+
+
+}
+.iki{
+border-style: solid;
+	width:100px;
+    margin:20px;
+    margin-left: 70px;
+    border-style:dotted	;
+    border-color:rgba(203, 151, 22, 0.8);
+    text-align: center	;
+
+}
+
+.uc{
+border-style: solid;
+	width:100px;
+    margin:20px;
+    margin-left:110px;
+    border-style:dashed	;
+    border-color:rgba(203, 151, 22, 0.8);
+    text-align: center	;
+
+}
+
+.dord{
+	border-style: solid;
+	width:100px;
+    margin:20px;
+    margin-left:150px;
+    border-style: double;
+    border-color:rgba(203, 151, 22, 0.8);
+    text-align: center	;
+
+
+}
